@@ -11,10 +11,6 @@
     <None Remove="Persistence\Repositories\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Persistence\" />
-    <Folder Include="Persistence\Repositories\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\HrManager.Core\HrManager.Core.csproj" />
   </ItemGroup>
 </Project>

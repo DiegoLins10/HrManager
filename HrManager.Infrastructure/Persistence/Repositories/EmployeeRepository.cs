@@ -1,8 +1,9 @@
 ﻿using HrManager.Core.Entities;
+using HrManager.Core.Repositories;
 
 namespace HrManager.Infrastructure.Persistence.Repositories
 {
-    public class EmployeeRepository
+    public class EmployeeRepository : IEmployeeRepository
     {
         private readonly HrManagerDbContext _context;
 

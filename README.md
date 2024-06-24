@@ -89,6 +89,12 @@ public class EmployeeServiceTests
 
 O código utiliza injeção de dependência e interfaces para promover a separação de preocupações e facilitar o teste. Isso permite a criação de testes unitários eficazes, onde dependências externas podem ser mockadas para isolar a unidade de código que está sendo testada. O uso de bibliotecas de mocking como Moq facilita a verificação de interações e comportamento do código em testes.
 
+### Tecnologias
+- XUnit
+- Moq (Mock)
+- Auto fixture
+- Shouldly
+
 
 Esse código é um exemplo de testes unitários usando a biblioteca xUnit.net, Moq para criação de mocks, AutoFixture para geração de dados aleatórios e Shouldly para assertivas de teste mais expressivas. Vamos analisar cada parte do código:
 

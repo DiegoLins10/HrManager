@@ -1,4 +1,4 @@
-Para entender os conceitos utilizados neste código em relação a testes unitários precisamos focar em alguns princípios chave e práticas que facilitam a testabilidade do código. Vou abordar os conceitos principais utilizados neste código e como eles se relacionam com testes unitários.
+Para entender os conceitos utilizados neste código em relação a testes unitários, precisamos focar em alguns princípios chave e práticas que facilitam a testabilidade do código. Vou abordar os conceitos principais utilizados neste código e como eles se relacionam com testes unitários.
 
 ### Conceitos Utilizados no Código
 
